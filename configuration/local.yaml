@@ -1,0 +1,5 @@
+couchbase:
+  uri: couchbase://localhost
+  bucket: default
+  user: default
+  password: default
